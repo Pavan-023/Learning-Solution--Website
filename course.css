@@ -1,0 +1,75 @@
+.background{
+    background-image: url("https://img.freepik.com/free-photo/abstract-studio-background-texture-light-blue-gray-gradient-wall-flat-floor-product_1258-52897.jpg?t=st=1723797878~exp=1723801478~hmac=8f3665cb2baea2f068332864b82b388759889c1b9d1d543467ef7b8e23e247b6&w=900");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.head{
+    margin-top: 70px;
+    text-align: center;
+    color:midnightblue;
+    font-size: 55px;;
+    
+}
+.about{
+    color:orangered;
+    font-size: 50px;
+   text-align: center;
+}
+.nav{
+   text-align: center;
+    display: grid;
+    grid-template-columns: auto auto auto auto ;
+    margin-left: 200px;;
+}
+a{
+    margin-top: 50px;
+    text-decoration: none;
+   color:midnightblue;
+    font-size: 20px;
+    border: 0.05em solid;
+    width: 120px;
+    border-radius: 40px;
+    padding: 8px;
+}
+a:hover{
+    background-color: rgb(255, 255, 255);
+    border-radius: 40px;
+    color:black;
+}
+.subhead{
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline;
+    
+}
+.courses{
+   display: flex;
+   justify-content: space-around;
+   margin-top: 70px;
+}
+.courseA{
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-around;
+}
+.courseB{
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 70px;
+}
+h2{
+    text-align: center;
+}
+.course1,.course2,.course3,.course4,.course5,.course6,.course7,.course8,.course9{
+    border: 0.05em solid;
+    padding:50px;
+    border-top-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+    background-color:transparent;
+    box-shadow: 10px 10px 20px;
+}
+img{
+    box-shadow: 2px 2px 12px;
+    border-radius: 5px;
+}

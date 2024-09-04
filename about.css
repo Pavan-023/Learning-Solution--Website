@@ -1,0 +1,73 @@
+.background {
+    background-image: url("https://img.freepik.com/free-vector/realistic-black-shimmer-background_23-2150083458.jpg?t=st=1723876767~exp=1723880367~hmac=1b2f3555442980f71d9fa71bf2503d763d39576359188ba0ad9dc2e8673c47f8&w=996");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.head {
+    margin-top: 70px;
+    text-align: center;
+    color: gold;
+    font-size: 45px;
+    ;
+}
+
+.about {
+    color: goldenrod;
+    font-size: 50px;
+    text-align: center;
+}
+
+.nav {
+    text-align: center;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin-left: 200px;
+  
+}
+
+a {
+    margin-top: 50px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    border: 0.05em solid;
+    width: 120px;
+    border-radius: 40px;
+    padding: 8px;
+}
+
+a:hover {
+    background-color: rgb(255, 255, 255);
+    border-radius: 40px;
+    color: black;
+}
+
+.headq {
+    color: whitesmoke;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 70px;
+    background-color: transparent;
+    width: 420px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px 5px 10px black;
+}
+
+h3 {
+    color: whitesmoke;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 100px;
+    color: rgb(248, 219, 0);
+    font-size: 30px;
+    text-align: center;
+}
+
+.para {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}

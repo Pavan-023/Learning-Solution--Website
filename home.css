@@ -1,0 +1,90 @@
+.background1{
+    background-image: url("https://img.freepik.com/free-vector/gradient-dynamic-lines-background_23-2149001022.jpg?t=st=1723876717~exp=1723880317~hmac=f24283d9f48acc47b0b1f3e233975e296e06fc2207ecd62a85488e4aeda6a4ea&w=996");
+    background-repeat: no-repeat;
+    background-size: cover;
+   background-position:bottom;
+}
+.head{
+    margin-top: 70px;
+    text-align: center;
+    color:gold;
+    font-size: 45px;
+}
+.ho{
+    text-align: center;
+    color: white;
+}
+.nav{
+   
+    display: grid;
+    grid-template-columns: auto auto auto auto ;
+    border-radius: 40px;
+    margin-left: 200px;
+    margin-right: auto;
+
+   
+   }
+a{
+    margin-top: 50px;
+    text-decoration: none;
+   color:white;
+    font-size: 20px;
+    border: 0.05em solid;
+    width: 120px;
+    border-radius: 40px;
+    text-align: center;
+    padding: 8px;
+}
+a:hover{
+    background-color: white;
+    border-radius: 40px;
+    color:black;
+}
+.headq{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 70px;
+    background-color: transparent;
+    width:420px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px 5px 10px black;
+}
+p{
+    font-size: 20px;
+    color: goldenrod;
+    text-align: center;
+    margin-top: 50px;
+}
+ .butt1{
+   
+  
+    
+   text-align: center;
+   margin-left: 45%;
+   padding: 5px;
+    
+
+}
+.butt2{
+   
+    text-align: center;
+    margin-right: 10%;
+    padding: 5px;
+   
+    
+
+} 
+
+button:hover{
+    background-color: midnightblue;
+    border-radius: 40px;
+    color:white;
+}
+ul{
+    font-size: 15px;
+    color: goldenrod;
+    text-align: center;
+    margin-top: 10px;
+}
